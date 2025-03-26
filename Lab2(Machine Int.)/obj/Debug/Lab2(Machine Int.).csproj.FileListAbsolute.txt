@@ -1,0 +1,46 @@
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe.config
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).pdb
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csprojResolveAssemblyReference.cache
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Form1.resources
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Properties.Resources.resources
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.GenerateResource.Cache
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).exe
+c:\users\иришка\documents\visual studio 2013\Projects\Lab2(Machine Int.)\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).pdb
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe.config
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).pdb
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\About_Box_Namespace_.AboutBox.resources
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Expert_System_Namespace_.ExpertSystemResult.resources
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Form1.resources
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Non_Result_System.NoneResultSystem.resources
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Properties.Resources.resources
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.GenerateResource.Cache
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).exe
+C:\Users\Иришка\Documents\VS Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).pdb
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe.config
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).pdb
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.AssemblyReference.cache
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\About_Box_Namespace_.AboutBox.resources
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Expert_System_Namespace_.ExpertSystemResult.resources
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Form1.resources
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Non_Result_System.NoneResultSystem.resources
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Properties.Resources.resources
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.GenerateResource.cache
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.CoreCompileInputs.cache
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).exe
+E:\Projects\Machine_intelligence\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).pdb
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe.config
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).exe
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\bin\Debug\Lab2(Machine Int.).pdb
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.AssemblyReference.cache
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\About_Box_Namespace_.AboutBox.resources
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Expert_System_Namespace_.ExpertSystemResult.resources
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Form1.resources
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Non_Result_System.NoneResultSystem.resources
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2_Machine_Int._.Properties.Resources.resources
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.GenerateResource.cache
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).csproj.CoreCompileInputs.cache
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).exe
+C:\Users\rogia\Desktop\Second laboratory work\Lab2(Machine Int.)\obj\Debug\Lab2(Machine Int.).pdb

@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|c:\\users\\rogia\\desktop\\second laboratory work\\lab2_ai_systems\\lab2(machine int.)\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\aboutbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\aboutbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\expersystemresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\expersystemresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab2(Machine Int.)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\aboutbox.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\aboutbox.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\noneresultsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\noneresultsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\lab2(machine int.)\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE6B956-0C38-43ED-8544-06FC55589AA6}|Lab2(Machine Int.)\\Lab2(Machine Int.).csproj|solutionrelative:lab2(machine int.)\\aboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutBox.resx",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.resx",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\AboutBox.resx",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.resx",
+              "RelativeToolTip": "Lab2(Machine Int.)\\AboutBox.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-26T07:44:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\App.config",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\App.config",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\App.config",
+              "RelativeToolTip": "Lab2(Machine Int.)\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T07:44:11.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoneResultSystem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\NoneResultSystem.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\NoneResultSystem.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2(Machine Int.)\\NoneResultSystem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Lab2(Machine Int.)\\NoneResultSystem.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:43:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperSystemResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\ExperSystemResult.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\ExperSystemResult.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2(Machine Int.)\\ExperSystemResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Lab2(Machine Int.)\\ExperSystemResult.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:42:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.Designer.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\AboutBox.Designer.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.Designer.cs",
+              "RelativeToolTip": "Lab2(Machine Int.)\\AboutBox.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:35:12.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\AboutBox.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab2(Machine Int.)\\AboutBox.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:35:11.625Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\Form1.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2(Machine Int.)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Lab2(Machine Int.)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:49:30.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\Program.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Program.cs",
+              "RelativeToolTip": "Lab2(Machine Int.)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:44:33.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab2(Machine Int.)",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Lab2(Machine Int.).csproj",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\Lab2(Machine Int.).csproj",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Lab2(Machine Int.).csproj",
+              "RelativeToolTip": "Lab2(Machine Int.)\\Lab2(Machine Int.).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T07:44:44.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\Form1.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\Form1.cs",
+              "RelativeToolTip": "Lab2(Machine Int.)\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv8oCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:52:27.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutBox.cs",
+              "DocumentMoniker": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.cs",
+              "RelativeDocumentMoniker": "Lab2(Machine Int.)\\AboutBox.cs",
+              "ToolTip": "C:\\Users\\rogia\\Desktop\\Second laboratory work\\Lab2_AI_systems\\Lab2(Machine Int.)\\AboutBox.cs",
+              "RelativeToolTip": "Lab2(Machine Int.)\\AboutBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:35:56.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
